@@ -3,6 +3,8 @@ title: Article
 permalink: Article
 ---
 
+Will editing work
+
 # "Silver"/"Amber"
 {% include silver_item.html 
 image_src='resources/img/WindowsNT31-RTM-Desktop.png'
