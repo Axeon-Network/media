@@ -1,2 +1,2 @@
-# Media
-A repository for storing various files related to KuroWiki etc.
+# Axeon Network Media
+A repository responsible for hosting various multimedia files related to KuroWiki and/or other projects.
