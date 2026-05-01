@@ -1,18 +1,31 @@
-name: Trigger Main Repo
+name: Trigger KuroWiki Repository
 
 on:
   push:
     branches: [ main ]
+    paths:
+      - "kuro/**"
 
 jobs:
   trigger:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Detect changed files
+        id: changes
+        run: |
+          echo "files=$(git diff --name-only ${{ github.event.before }}...${{ github.sha }})" >> $GITHUB_OUTPUT
+
       - name: Notify main repo
         run: |
           curl -X POST \
             -H "Authorization: token ${{ secrets.MEDIA_REPO_TOKEN }}" \
             -H "Accept: application/vnd.github.v3+json" \
             https://api.github.com/repos/Axeon-Network/Kuro-EXP/dispatches \
-            -d '{"event_type":"sync-media"}'
+            -d '{
+              "event_type": "sync-contents",
+              "client_payload": {
+                "actor": "${{ github.actor }}",
+                "files": "kuro"
+              }
+            }'
