@@ -34,7 +34,7 @@ os='Windows 7 Enterprise E Service Pack 1'
 {% include tableofcontents.html %}
 
 # Background
-{% include misc/hatnote.html
+{% include items/hatnote.html
 content='For more information, see [TheCeleryPC § History](TheCeleryPC#history)'
 %}
 
