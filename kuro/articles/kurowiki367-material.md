@@ -13,7 +13,7 @@ version='1.0.1'
 build='367'
 lab='material'
 compiled='2025-05-15<br>2025-05-16 (Released)'
-image='resources/img/articles/kurowiki367-material/drawer.png'
+image='res/img/articles/kurowiki367-material/drawer.png'
 image_caption='Article view with drawer open'
 %}
 
@@ -26,8 +26,8 @@ Alongside that, this build introduces a search engine (codenamed *DeltaSearch*) 
 
 # Gallery
 <div class="wiki-gallery">
-{% include gallery_item.html 
-   image_src="resources/img/articles/kurowiki367-material/search.png"
+{% include items/gallery.html 
+   image_src="res/img/articles/kurowiki367-material/search.png"
    caption="The search box located at the bottom of each page"
 %}
 </div>

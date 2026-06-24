@@ -13,7 +13,7 @@ version='0.2'
 build='287'
 lab='Unknown'
 compiled='2026-03-19'
-image='resources/img/articles/cuber287/image.png'
+image='res/img/articles/cuber287/image.png'
 image_caption='Panther log'
 %}
 

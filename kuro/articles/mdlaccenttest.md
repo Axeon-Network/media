@@ -43,7 +43,7 @@ me when the material design is lite (real)
 .demo-card-wide > .mdl-card__title {
   color: #fff;
   height: 176px;
-  background: url('resources/img/articles/cometadv527/windows81.png') center / cover;
+  background: url('res/img/articles/cometadv527/windows81.png') center / cover;
 }
 .demo-card-wide > .mdl-card__menu {
   color: #fff;

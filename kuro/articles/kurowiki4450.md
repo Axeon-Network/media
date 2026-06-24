@@ -16,9 +16,9 @@ version='6.0.1'
 build='4450'
 lab='main'
 compiled='2026-01-10 20:27 UTC-6'
-image='resources/img/articles/kurowiki4450/home.png'
+image='res/img/articles/kurowiki4450/home.png'
 image_caption='Home page (dark mode)'
-image2='resources/img/articles/kurowiki4450/homelight.png'
+image2='res/img/articles/kurowiki4450/homelight.png'
 image2_caption='Home page (light mode)'
 %}
 
@@ -34,7 +34,7 @@ Additionally, the copyright year has been updated to reflect the new year, while
 
 # Gallery
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4450/drawer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4450/drawer.png" 
         caption="Drawer" %}
 </div>

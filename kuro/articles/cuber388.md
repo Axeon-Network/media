@@ -11,7 +11,7 @@ version='0.3'
 build='388'
 lab='wh-cuber_alpha_escrow'
 compiled='2026-05-02'
-image='resources/img/articles/cuber388/image.png'
+image='res/img/articles/cuber388/image.png'
 image_caption='Main page'
 %}
 

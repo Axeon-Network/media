@@ -29,7 +29,7 @@ repoLink='https://github.com/Kit64/stuffyxp-website'
 repoHost='GitHub'
 status='Source code archived; website accessible'
 link='https://Kit64.github.io/stuffyxp-website/stuffywebsitewou'
-image='resources/img/articles/stuffyswebsite/home.png'
+image='res/img/articles/stuffyswebsite/home.png'
 %}
 
 ***Stuffy's Website*** (commonly abbreviated as ***StuffyWebsite***, ***Stuffy Website WOU***, or just ***WOU*** after the release of Update 1.1) was [KitSixtyFour](KitSixtyFour)'s personal website from June 2024 to August 2024. It was succeded by the *[StuffyXP Website](StuffyXP_Website)* in September 2024.
@@ -52,9 +52,9 @@ These issues consisted of the website's font being italic in Chromium-based brow
 
 The website was archived the same day and is viewable at [web.archive.org/web/20240622170614/https://stuffyxp.github.io/](https://web.archive.org/web/20240622170614/https://stuffyxp.github.io/)
 
-<div>
-    {% include figure_item.html 
-        image_src="resources/img/articles/stuffyswebsite/homepublicbeta.png" 
+<div class="wiki-gallery">
+    {% include items/gallery.html 
+        image_src="res/img/articles/stuffyswebsite/homepublicbeta.png" 
         alt_text="" 
         caption="Stuffy's Website! Public Beta homepage"
         style="width:50%; height:auto" %}

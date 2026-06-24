@@ -18,7 +18,7 @@ hatnote: This article is incomplete. It will probably be finished in Release Can
 toc: true
 ---
 {% include infoboxes/channel.html
-pfp='resources/img/articles/lynxmic/logo.png'
+pfp='res/img/articles/lynxmic/logo.png'
 author='AveryEclipse'
 name='Lynxmic'
 creator='AveryEclipse'
@@ -55,7 +55,7 @@ Later on 24 December 2016, the Computerseasons Twitter Account would be created 
 
    <div>
         {% include figure_item.html 
-        image_src="resources/img/articles/lynxmic/cs_channel_picture.png" 
+        image_src="res/img/articles/lynxmic/cs_channel_picture.png" 
         alt_text="" 
         caption="Computerseasons logo, December 2016"
         style="width:10%; height:auto" %}

@@ -12,7 +12,7 @@ version='7.0'
 build='4500'
 lab='main'
 compiled='2026-01-13 18:20 UTC+1'
-image='resources/img/articles/deltari4500/home.png'
+image='res/img/articles/deltari4500/home.png'
 %}
 
 

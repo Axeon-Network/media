@@ -11,7 +11,7 @@ version='0.3'
 build='351'
 lab='wh-cuber_alpha'
 compiled='2026-05-02'
-image='resources/img/articles/cuber351/image.png'
+image='res/img/articles/cuber351/image.png'
 image_caption='Tab demos with watermark'
 %}
 

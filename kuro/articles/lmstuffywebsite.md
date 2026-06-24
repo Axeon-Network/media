@@ -17,7 +17,7 @@ writtenin='HTML/CSS/JS, Ruby+Jekyll'
 type='Personal Website'
 sourceModel='Open source (planned)'
 status='Lost media'
-image='resources/img/articles/lmstuffyswebsite/home.png'
+image='res/img/articles/lmstuffyswebsite/home.png'
 %}
 
 ***Stuffy's Website*** (commonly reffered to as ***LM Stuffy Website***[^1] in order to differenciate it from *[Stuffy Website WOU](Stuffy's_Website)*) was a website initially planned to serve as [KitSixtyFour](KitSixtyFour)'s personal website. Initial development can be traced back to February 2024, but most of it took place in April-May 2024. Work was finished but the website became lost media before it was even published, but a demo video was uploaded to [StuffyXP Extras](StuffyXP).

@@ -15,8 +15,8 @@ Additionally, a Minecraft world containing a main "lobby" for the then-known as 
 Tentatives at hosting a Minecraft Server date back to summer 2018, when the then-known-as Axeon Community was planning a joined game night with one of its partnered Discord Servers. However, this never happened.
 
 <div>
-    {% include figure_item.html 
-        image_src="resources/img/articles/midorimc/2021.png" 
+    {% include items/embed.html 
+        image_src="res/img/articles/midorimc/2021.png" 
         alt_text="World spawn of the 'Lynx-Axeon Minecraft Server' from 2021" 
         caption="World spawn of the 'Lynx-Axeon Minecraft Server' from 2021"
         style="width:30%; height:auto" %}
@@ -29,8 +29,8 @@ An experimental AxeonMC Minecraft server was set up as a Survival 1.21.4 Fabric 
 Both AxeonMC (hosted by [AveryEclipse](AveryEclipse)) and Horicraft (2) (hosted by KitSixtyFour) would co-exist for a while, both being two separate Survival servers, leading up to the latter's closure.
 
 <div>
-    {% include figure_item.html 
-        image_src="resources/img/articles/midorimc/axeonmc.png" 
+    {% include items/embed.html 
+        image_src="res/img/articles/midorimc/axeonmc.png" 
         alt_text="World spawn of AxeonMC" 
         caption="World spawn of AxeonMC"
         style="width:30%; height:auto" %}
@@ -46,8 +46,8 @@ New ideas to enhance the MidoriMC in-game experience have came up around July 20
 Another idea was to [unify](Orchid) the MidoriMC in-game chat and the Axeon Network Discord and Stoat servers together under a *#global* text channel, forming an "actual network". That said, none of these ideas came to life, due to AveryEclipse's dwindling interest to continue operating MidoriMC at all.
 
 <div>
-    {% include figure_item.html 
-        image_src="resources/img/articles/midorimc/midorimclogo.png" 
+    {% include items/embed.html 
+        image_src="res/img/articles/midorimc/midorimclogo.png" 
         alt_text="Logo of MidoriMC, in use from June 2025 until its closure." 
         caption="Logo of MidoriMC, in use from June 2025 until its closure."
         style="width:10%; height:auto" %}

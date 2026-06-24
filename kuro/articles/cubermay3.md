@@ -12,7 +12,7 @@ buildtag='3 May 2026 build'
 version='0.4'
 lab='wh-cuber_alpha_escrow'
 compiled='2026-05-03'
-image='resources/img/articles/cuber260503/image.png'
+image='res/img/articles/cuber260503/image.png'
 image_caption='System Properties Demo Window'
 %}
 

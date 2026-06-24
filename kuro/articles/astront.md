@@ -9,8 +9,8 @@ dyk:
 ---
 
 {% include infoboxes/channel.html
-logo='resources/img/articles/astront/wordmark.png'
-pfp='resources/img/articles/astront/logo.png'
+logo='res/img/articles/astront/wordmark.png'
+pfp='res/img/articles/astront/logo.png'
 name='AstroNT'
 creator='[KitSixtyFour](KitSixtyFour)'
 maintainers='[KitSixtyFour](KitSixtyFour)<br>[AveryEclipse](AveryEclipse)'
@@ -71,28 +71,28 @@ As of June 2026, there are eighteen videos uploaded to the AstroNT channel (excl
 # Gallery
 
 <div class="wiki-gallery">
-    {% include gallery_item.html
-        image_src="resources/img/articles/astront/banner.png"
+    {% include items/gallery.html
+        image_src="res/img/articles/astront/banner.png"
         caption="AstroNT Banner" 
         author='KitSixtyFour' %}
 
-    {% include gallery_item.html
-        image_src="resources/img/articles/astront/teaser1.png"
+    {% include items/gallery.html
+        image_src="res/img/articles/astront/teaser1.png"
         caption="The launch teaser originally sent in [StuffyXP Hangout](StuffyXP_Hangout) and [Nishi's Den](Nishi's_Den)" 
         author='KitSixtyFour' %}
 
-    {% include gallery_item.html
-        image_src="resources/img/articles/astront/teaser2.png"
+    {% include items/gallery.html
+        image_src="res/img/articles/astront/teaser2.png"
         caption="Ditto, [Horicraft](Horicraft) variant." 
         author='KitSixtyFour' %}
 
-    {% include gallery_item.html
-        image_src="resources/img/articles/astront/earlyteaser.png"
+    {% include items/gallery.html
+        image_src="res/img/articles/astront/earlyteaser.png"
         caption="An early version of the teaser." 
         author='KitSixtyFour' %}
 
-    {% include gallery_item.html
-        image_src="resources/img/articles/astront/makingoflogo.png"
+    {% include items/gallery.html
+        image_src="res/img/articles/astront/makingoflogo.png"
         caption="An image depicting how the AstroNT logo was created." 
         author='KitSixtyFour' %}
 </div>

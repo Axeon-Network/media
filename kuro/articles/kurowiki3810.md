@@ -14,9 +14,9 @@ version='6.0'
 build='3810'
 lab='main'
 compiled='2025-10-17 18:08 UTC-6'
-image='resources/img/articles/kurowiki3810/home.png'
+image='res/img/articles/kurowiki3810/home.png'
 image_caption='Home page (dark mode)'
-image2='resources/img/articles/kurowiki3810/homelight.png'
+image2='res/img/articles/kurowiki3810/homelight.png'
 image2_caption='Home page (light mode)'
 %}
 
@@ -57,18 +57,18 @@ This main branch build introduced various features implemented after build 3680,
 # Gallery
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3810/drawer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3810/drawer.png" 
         alt_text="" 
         caption="Drawer"
         style="width:50%;" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3810/settings.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3810/settings.png" 
         alt_text="" 
         caption="Settings"
         style="width:50%;" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3810/settingslight.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3810/settingslight.png" 
         alt_text="" 
         caption="Ditto, light mode"
         style="width:50%;" %}

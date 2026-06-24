@@ -15,7 +15,7 @@ nationality='NovaLandese'
 residence='Starlight, Fucking, NovaLand'
 gender='Non-Binary'
 species='Red Fox (Vulpes vulpes)'
-image='resources/img/articles/nishi/profile.png'
+image='res/img/articles/nishi/profile.png'
 %}
 
 **Nishi** is a fictional character created by [Kit](Kit64). It is Kit's fursona since the introduction of the Kit64 branding on 15 November 2025.

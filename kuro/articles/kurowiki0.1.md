@@ -9,7 +9,7 @@ buildtag='0.1'
 version='0.1'
 lab='main'
 compiled='2025-05-04'
-image='resources/img/articles/kurowiki0.1/image.png'
+image='res/img/articles/kurowiki0.1/image.png'
 %}
 
 **KuroWiki build 0.1** is the second known build of [KuroWiki](KuroWiki) compiled on 4 May 2025 from the `main` branch.[^1]
@@ -21,8 +21,8 @@ This build also introduces the `HoriWiki Engine <development sign>-<version numb
 Another compile of this build (practically wearing the same build tag) was sent to the [Axeon Network](Axeon_Network) Discord server showing a very early version of the HoriWiki layout used between the Pre-Alpha stage and [Beta 1.0](KuroWiki_build_1.0).
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki0.1/alt.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki0.1/alt.png" 
         caption="Later compile."
      %}
 </div>

@@ -10,7 +10,7 @@ version='7.0'
 build='4546'
 lab='kitsixtyfour_N'
 compiled='2026-02-15 17:32 UTC-6'
-image='resources/img/articles/kurowiki4546/homepage.png'
+image='res/img/articles/kurowiki4546/homepage.png'
 image_caption='Home page'
 %}
 
@@ -35,14 +35,14 @@ Although not shown, the site may fail to load certain pages due to merge conflic
 
 # Gallery
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4546/banner.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4546/banner.png" 
         caption="The site homepage with the drawer open." %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4546/article.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4546/article.png" 
         caption="Article view." %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4546/console.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4546/console.png" 
         caption="The console output of the site build, showing the version banners and the DeltaSearch notice." %}
 </div>
 

@@ -10,9 +10,9 @@ version='0.5'
 build='527'
 lab='kitsixtyfour'
 compiled='2026-01-10 16:59 <small>(Linux)</small><br>and 17:46 <small>(Windows)</small>'
-image='resources/img/articles/cometadv527/windows81.png'
+image='res/img/articles/cometadv527/windows81.png'
 image_caption='Comet Adventure build 527 running under Windows 8.1'
-image2='resources/img/articles/cometadv527/linux.png'
+image2='res/img/articles/cometadv527/linux.png'
 image2_caption='Ditto, running under Linux'
 %}
 
@@ -28,24 +28,24 @@ This build's Windows and Linux compiles, alongside [other](Comet_Adventure_build
 
 # Gallery
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/cometadv527/windowsvista.png"  
+    {% include items/gallery.html 
+        image_src="res/img/articles/cometadv527/windowsvista.png"  
         caption="Comet Adventure build 527 running under Windows Vista"
         style="width:50%;" %}
 
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/cometadv527/properties.png"  
+    {% include items/gallery.html 
+        image_src="res/img/articles/cometadv527/properties.png"  
         caption="The Details tab from the Properties dialog, showing the full build tag"
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/cometadv527/properties_dp.png"  
+    {% include items/gallery.html 
+        image_src="res/img/articles/cometadv527/properties_dp.png"  
         caption="Ditto, *Comet Adventure Build Pack* version"
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/cometadv527/explorer.png"  
+    {% include items/gallery.html 
+        image_src="res/img/articles/cometadv527/explorer.png"  
         caption="The Windows Explorer window showing the Linux compiles of build 513 and 527"
         style="width:50%;" %}
 </div>

@@ -85,43 +85,43 @@ In the other part, "Edition 2026" is a nod to many bootlegs' name that have incl
 # Gallery
 ## Windows Setup
 <div class="wiki-gallery">
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/windowsiscopyingfiles.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/windowsiscopyingfiles.png"
    caption="Windows is copying files..."
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/setupautorun.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/setupautorun.png"
    caption="Setup"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/stpautorun2.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/stpautorun2.png"
    caption="Ditto"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/setupprodkey.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/setupprodkey.png"
    caption="Product key"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/setupeula.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/setupeula.png"
    caption="EULA"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/setupinstalltype.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/setupinstalltype.png"
    caption="Installation type"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/setupinstallloc.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/setupinstallloc.png"
    caption="Disk partitioning"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/setupinstalling.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/setupinstalling.png"
    caption="Installing Windows"
    author="AveryEclipse"
    %}
@@ -129,48 +129,48 @@ In the other part, "Edition 2026" is a nod to many bootlegs' name that have incl
 
 ## Out of Box Experience
 <div class="wiki-gallery">
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/plswait.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/plswait.png"
    caption="Please wait while Windows sets up your computer"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/plswait2.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/plswait2.png"
    caption="Please wait while Windows continues to set up your computer"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/oobe1.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/oobe1.png"
    caption="User name and picture"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/oobe2.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/oobe2.png"
    caption="Computer name and background"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/oobe3.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/oobe3.png"
    caption="Automatic Updates"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/oobe4.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/oobe4.png"
    caption="Date and time"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/oobe5.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/oobe5.png"
    caption="Network"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/oobe6.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/oobe6.png"
    caption="Finish"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/postoobe.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/postoobe.png"
    caption="Hardware check"
    author="KitSixtyFour"
    %}
@@ -178,13 +178,13 @@ In the other part, "Edition 2026" is a nod to many bootlegs' name that have incl
 
 ### OOBE after using Sysprep 
 <div class="wiki-gallery">
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/sysprepoobe.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/sysprepoobe.png"
    caption="Regional Settings"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/sysprepoobe2.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/sysprepoobe2.png"
    caption="EULA"
    author="KitSixtyFour"
    %}
@@ -192,78 +192,78 @@ In the other part, "Edition 2026" is a nod to many bootlegs' name that have incl
 
 ## Desktop
 <div class="wiki-gallery">
-{% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/boot.png"
+{% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/boot.png"
    caption="Boot screen"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/firstlogon.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/firstlogon.png"
    caption="Logon screen"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/logon2.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/logon2.png"
    caption="Ditto"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/activatewindows.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/activatewindows.png"
    caption="Activate Windows dialog"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/personalizedsettings.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/personalizedsettings.png"
    caption="Personalized Settings"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/firstboot.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/firstboot.png"
    caption="First boot"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/desktop.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/desktop.png"
    caption="Desktop"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/desktop2.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/desktop2.png"
    caption="Ditto, background applied"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/startmenu.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/startmenu.png"
    caption="Start menu (All programs)"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/fileexplorer.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/fileexplorer.png"
    caption="Windows Explorer"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/systemprop.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/systemprop.png"
    caption="System Properties"
    author="AveryEclipse"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/winver.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/winver.png"
    caption="About Windows"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/eula.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/eula.png"
    caption="Microsoft Software License Terms"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/dxdiag.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/dxdiag.png"
    caption="DirectX Diagnostic Tool"
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/appwiz.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/appwiz.png"
    caption="Programs and Features"
    author="KitSixtyFour"
    %}
@@ -271,28 +271,28 @@ In the other part, "Edition 2026" is a nod to many bootlegs' name that have incl
 
 ## Sample Pictures/Desktop Backgrounds
 <div class="wiki-gallery">
-{% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/2026-02-28_19.05.31.png"
+{% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/2026-02-28_19.05.31.png"
    caption="A landscape originating from the [KitsuMC](KitsuMC) Minecraft server."
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/2026-02-28_19.56.43.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/2026-02-28_19.56.43.png"
    caption="Ditto, sunset."
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/2026-03-02_15.22.48.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/2026-03-02_15.22.48.png"
    caption="Ditto."
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/2026-03-02_18.46.27.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/2026-03-02_18.46.27.png"
    caption="LeCat (left) and Nishi (right) sitting on a bed."
    author="KitSixtyFour"
    %}
-   {% include gallery_item.html
-   image_src="resources/img/articles/winnishilecat/2026-03-02_18.18.01.png"
+   {% include items/gallery.html
+   image_src="res/img/articles/winnishilecat/2026-03-02_18.18.01.png"
    caption="A solo picture of Nishi."
    author="KitSixtyFour"
    %}

@@ -11,9 +11,9 @@ version='6.0'
 build='3880'
 lab='kayaurora'
 compiled='2025-10-27 17:31 UTC-6'
-image='resources/img/articles/kurowiki3889/desktop.png'
+image='res/img/articles/kurowiki3889/desktop.png'
 image_caption='Desktop view'
-image2='resources/img/articles/kurowiki3889/mobile.png'
+image2='res/img/articles/kurowiki3889/mobile.png'
 image2_caption='Mobile view'
 %}
 

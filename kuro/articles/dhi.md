@@ -13,8 +13,8 @@ aliases:
   - dhi turtles
 ---
 
-{% include silver_item.html 
-  image_src="resources/img/articles/dhi/hq.png" 
+{% include items/embed.html 
+  image_src="res/img/articles/dhi/hq.png" 
   caption="Headquarters of DHI Inc. in Fucking, NovaLand"
 %}
 
@@ -27,8 +27,8 @@ In July 2024, the company was renamed *Dogui Heavy Industries Limited*, having i
 In March 2025, Dogui Heavy Industries has changed from a Limited Company to an Incorporation, hence its current name. It is one of the most profitable businesses founded and ran in NovaLand. It has been said that works made by DHI's employees are prone to [Kit Moments](Kit_Moments).
 
 # Subsidiaries
-{% include silver_item.html 
-    image_src="resources/img/articles/dhi/hqturtles.png" 
+{% include items/embed.html 
+    image_src="res/img/articles/dhi/hqturtles.png" 
     caption="Headquarters of DHI Turtles on the coast of Fucking, NovaLand"
 %}
 

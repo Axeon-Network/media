@@ -14,6 +14,6 @@ redirect_from:
      - An example on how the idea would go: someone from Discord sends a message to the `#global` text channel on Discord and it would show up on the `#global` text channel on Stoat or vice-versa. Messages from both channels from Discord and Stoat would show up in the MidoriMC in-game chat as well, and people online on MidoriMC can choose to have their messages go on both channels on Discord and Stoat as well.
 
    <div class="container">
-        <img src="resources/img/articles/listofkayauroracodenames/orchid.png" style="width:20%; height:auto">
+        <img src="res/img/articles/listofkayauroracodenames/orchid.png" style="width:20%; height:auto">
         <p id="caption">Initial Orchid logos, from left to right: 2023 (for the Discord bot), 2025 (other planned projects)</p>
    </div>-->

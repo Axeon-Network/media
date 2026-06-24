@@ -6,8 +6,8 @@ hatnote: This article is about the secondary channel, for the channel shortly kn
 ---
 
 {% include infoboxes/channel.html
-logo='resources/img/articles/astronte/logo.png'
-pfp='resources/img/articles/astronte/pfp.png'
+logo='res/img/articles/astronte/logo.png'
+pfp='res/img/articles/astronte/pfp.png'
 name='AstroNT Embedded'
 creator='[KitSixtyFour](KitSixtyFour) (Google Account)<br>[AveryEclipse](AveryEclipse) (YouTube channel)'
 maintainers='KitSixtyFour<br>AveryEclipse'
@@ -33,7 +33,7 @@ As of June 2026, two videos have been uploaded to the channel.
 
 # Gallery
 <div class="wiki-gallery">
-{% include gallery_item.html
+{% include items/gallery.html
 caption='Channel banner'
-image_src='resources/img/articles/astronte/banner.png' %}
+image_src='res/img/articles/astronte/banner.png' %}
 </div>

@@ -11,7 +11,7 @@ version='0.1'
 build='133'
 lab='26-02-11_kit'
 compiled='2026-02-11'
-image='resources/img/articles/cuber133/image.png'
+image='res/img/articles/cuber133/image.png'
 image_caption='Main page'
 %}
 

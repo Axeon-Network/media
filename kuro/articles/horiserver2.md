@@ -11,9 +11,9 @@ Despite the server being theoretically Kit's (and that they did still formally h
 The server was nuked and closed on 23 April 2025, a direct result of the [April 2025 HoriServer (2) incident](April_2025_HoriServer_(2)_incident) part of the wider April 2025 Discord drama incidents in the surrounding community, which led to both Kit and AveryEclipse resigning a day prior.
 
 [A YouTube channel](https://www.youtube.com/@HoriServer2) of the same name also exists meant for highlights from various events or other things to do with the community, created on 21 April 2025. This channel still exists to this day but remains unused.
-   <div>
-    {% include figure_item.html 
-        image_src="resources/img/articles/horiserver2/horiserver2.png" 
+   <div class="wiki-gallery">
+    {% include items/gallery.html 
+        image_src="res/img/articles/horiserver2/horiserver2.png" 
         alt_text="" 
         caption="HoriServer (2) logo"
         style="width:10%; height:auto" %}
@@ -26,9 +26,9 @@ A reason for the merge was the fact most LynxPlaza members at the time were also
 
 The plans were set to take place on 21 April 2025 before they were cancelled due to the HoriServer (2) implosion.
 
-   <div>
-    {% include figure_item.html 
-        image_src="resources/img/articles/horiserver2/lyra.png" 
+   <div class="wiki-gallery">
+    {% include items/gallery.html 
+        image_src="res/img/articles/horiserver2/lyra.png" 
         alt_text="" 
         caption="A prototype logo for the Lyra server."
         style="width:10%; height:auto" %}

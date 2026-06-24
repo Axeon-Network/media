@@ -14,7 +14,7 @@ version='6.0'
 build='4074'
 lab='nekori64'
 compiled='2025-10-29 14:52 UTC-6'
-image='resources/img/articles/kurowiki4074/home.png'
+image='res/img/articles/kurowiki4074/home.png'
 image_caption='Home page'
 %}
 
@@ -29,13 +29,13 @@ The source code was publically archived on Internet Archive and can be [download
 # Gallery
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4074/drawer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4074/drawer.png" 
         alt_text="" 
         caption="Drawer"
         style="width:50%;" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4074/404page.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4074/404page.png" 
         alt_text="" 
         caption="404 Not Found page invoked when accessing <a href='A_Emoji'>A Emoji</a>, one of the many removed articles in this build"
         style="width:50%;" %}

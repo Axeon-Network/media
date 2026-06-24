@@ -11,9 +11,9 @@ version='0.2'
 build='256'
 lab='whcuber_main'
 compiled='2026-03-14'
-image='resources/img/articles/cuber256/image.png'
+image='res/img/articles/cuber256/image.png'
 image_caption='Main page'
-image2='resources/img/articles/cuber256/image2.png'
+image2='res/img/articles/cuber256/image2.png'
 image2_caption='Bottom of page'
 %}
 

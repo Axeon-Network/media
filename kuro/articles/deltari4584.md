@@ -12,7 +12,7 @@ version='7.0'
 build='4584'
 lab='main'
 compiled='2026-01-13 11:46 UTC-6'
-image='resources/img/articles/deltari4584/home.png'
+image='res/img/articles/deltari4584/home.png'
 %}
 
 
@@ -23,10 +23,10 @@ Screenshots of this build have been posted on the [Axeon Network](Axeon_Network)
 # Gallery
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/deltari4584/home.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/deltari4584/home.png" 
         caption="Home" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/deltari4584/drawer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/deltari4584/drawer.png" 
         caption="Drawer" %}
 </div>

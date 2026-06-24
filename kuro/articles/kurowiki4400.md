@@ -14,7 +14,7 @@ version='6.0'
 build='4400'
 lab='main'
 compiled='2025-12-04 00:46 UTC+2'
-image='resources/img/articles/kurowiki4400/home.png'
+image='res/img/articles/kurowiki4400/home.png'
 image_caption='Home page'
 %}
 
@@ -57,39 +57,39 @@ It brought many major fixes, changes and articles, including a redesigned media 
 ## Dark mode
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/drawer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/drawer.png" 
         caption="Drawer" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/article.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/article.png" 
         caption="Article view" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/settings.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/settings.png" 
         caption="Settings" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/sitemap.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/sitemap.png" 
         caption="Sitemap" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/springviewer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/springviewer.png" 
         caption="SpringViewer" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/springviewerdetails.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/springviewerdetails.png" 
         caption="Ditto, More Details box open" %}
 </div>
 
 ## Light mode
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/homelight.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/homelight.png" 
         caption="Home" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/drawerlight.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/drawerlight.png" 
         caption="Drawer" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/articlelight.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/articlelight.png" 
         caption="Article view" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4400/settingslight.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4400/settingslight.png" 
         caption="Settings" %}
 </div>

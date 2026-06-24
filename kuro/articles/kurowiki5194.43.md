@@ -11,7 +11,7 @@ build='5194'
 delta='43'
 lab='kuro_rc1_prerelease'
 compiled='2026-05-22 16:44 UTC-6'
-image='resources/img/articles/kurowiki5194.43/home.png'
+image='res/img/articles/kurowiki5194.43/home.png'
 image_caption='Home Page'
 %}
 

@@ -10,7 +10,7 @@ version='0.5'
 build='513'
 lab='kitsixtyfour'
 compiled='2026-01-10 16:33'
-image='resources/img/articles/cometadv513/image.png'
+image='res/img/articles/cometadv513/image.png'
 image_caption='Comet Adventure build 513 running under Linux'
 %}
 
@@ -19,8 +19,8 @@ image_caption='Comet Adventure build 513 running under Linux'
 This build was released as part of the *Comet Adventure Build Pack* on 26 January 2026 and is available for download. Prior to its release, the build's executable file was shown on a Windows Explorer directory listing on 10 January 2026.
 
 <div class='wiki-gallery'>
-{% include gallery_item.html 
-image_src='resources/img/articles/cometadv527/explorer.png'
+{% include items/gallery.html 
+image_src='res/img/articles/cometadv527/explorer.png'
 caption='The executable file being shown on Windows Explorer'
 %}
 </div>

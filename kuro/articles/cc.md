@@ -12,9 +12,9 @@ aliases:
 
 The company's name is inherited from the [Avery](AveryEclipse)-drawn [Cairo](Cairo) original character (OC), with the "Company" term added to make for an appealing name with good abbreviation.
 
-  <div>
-    {% include figure_item.html 
-        image_src="resources/img/articles/cc/hqnovaland.png" 
+  <div class="wiki-gallery">
+    {% include items/gallery.html 
+        image_src="res/img/articles/cc/hqnovaland.png" 
         caption="Headquarters of Cairo Company NovaLand (a subsidiary of the main Cairo Company from Averia) in Jell, NovaLand"
         style="width:50%; height:auto" %}
         </div>

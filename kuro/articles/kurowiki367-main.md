@@ -15,7 +15,7 @@ version='1.0.1'
 build='367'
 lab='main'
 compiled='2025-05-15'
-image='resources/img/articles/kurowiki367-main/home.png'
+image='res/img/articles/kurowiki367-main/home.png'
 image_caption='Home page'
 %}
 
@@ -26,21 +26,21 @@ This is the last known build to use the legacy HoriWiki layout, as the newer lay
 This build is available at the `main` branch of [github.com/stupidbifox/legacy-kuro](https://github.com/stupidbifox/legacy-kuro) and can be used in the current date.
 
 # Changes
-{% include silver_item.html
-   image_src='resources/img/articles/kurowiki367-main/version.png' 
+{% include items/embed.html
+   image_src='res/img/articles/kurowiki367-main/version.png' 
    caption='The build number appearing when the Shift key is pressed.'
    %}
 Not much is known about this build, as it is a simple update over [the previous build](KuroWiki_build_1.0_(Beta)), however, it is known that the Shift version info feature previously present in *[HoriWebsite](HoriWebsite)* was backported to this build, as a line stating "Build 1.0.1.367.main.250515-1422" appears below "HoriWiki Engine β1.0.1" when the Shift key is pressed.
 
 # Gallery
 <div class="wiki-gallery">
-    {% include gallery_item.html
-       image_src='resources/img/articles/sitemap.png'
+    {% include items/gallery.html
+       image_src='res/img/articles/sitemap.png'
        caption='Sitemap' %}
-    {% include gallery_item.html
-       image_src='resources/img/articles/contributing.png'
+    {% include items/gallery.html
+       image_src='res/img/articles/contributing.png'
        caption='The *Contributing to HoriWiki* page' %}
-    {% include gallery_item.html
-       image_src='resources/img/articles/article.png'
+    {% include items/gallery.html
+       image_src='res/img/articles/article.png'
        caption='An article (*[Dogui Heavy Industries Incorporated](Dogui_Heavy_Industries)*)' %}
 </div>

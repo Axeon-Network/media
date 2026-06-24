@@ -20,36 +20,36 @@ This section includes logos and promotional posters of the movie.
 # Logos
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/logo_en.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/logo_en.png" 
         alt_text="English logo." 
         caption="English logo."
         author='KitSixtyFour'
         style=" background-color:none!important; border:none!important;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/logo_en_v2.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/logo_en_v2.png" 
         alt_text="Ditto, with 'Axeon Network presents' text." 
         caption="Ditto, with 'Axeon Network presents' text"
         author='KitSixtyFour'
         style=" background-color:none!important; border:none!important;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/logo_es.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/logo_es.png" 
         alt_text="Spanish logo." 
         caption="Spanish logo."
         author='KitSixtyFour'
         style=" background-color:none!important; border:none!important;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/logo_es_v2.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/logo_es_v2.png" 
         alt_text="Ditto, with 'Axeon Network presenta' text." 
         caption="Ditto, with 'Axeon Network presenta' text."
         author='KitSixtyFour'
         style=" background-color:none!important; border:none!important;" %}
         
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/logo_jp.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/logo_jp.png" 
         alt_text="Japanese logo." 
         caption="Japanese logo."
         author='KitSixtyFour'
@@ -61,60 +61,60 @@ This section includes logos and promotional posters of the movie.
 ## Original release
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster1.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster1.png" 
         alt_text="Poster #1" 
         caption="Poster #1"
         author='KitSixtyFour'
         style="" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster2.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster2.png" 
         alt_text="Poster #2" 
         caption="Poster #2"
         author='KitSixtyFour'
         style="" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster2_teaser.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster2_teaser.png" 
         alt_text="Ditto, teaser version." 
         caption="Ditto, teaser version."
         author='KitSixtyFour'
         style="" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster3.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster3.png" 
         alt_text="Poster #3" 
         caption="Poster #3"
         author='KitSixtyFour'
         style="" %}
         
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster3_teaser.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster3_teaser.png" 
         alt_text="Ditto, teaser version." 
         caption="Ditto, teaser version."
         author='KitSixtyFour'
         style="" %}
 
     
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster4.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster4.png" 
         alt_text="Poster #4" 
         caption="Poster #4"
         author='KitSixtyFour'
         style="" %}
 
         
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster5.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster5.png" 
         alt_text="Poster #5" 
         caption="Poster #5"
         author='KitSixtyFour'
         style="" %}
 
         
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/poster6.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/poster6.png" 
         alt_text="Poster #6, featuring Kit and AveryEclipse" 
         caption="Poster #6, featuring Kit and AveryEclipse"
         author='KitSixtyFour'
@@ -124,28 +124,28 @@ This section includes logos and promotional posters of the movie.
 ## Threatical release
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/tposter1.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/tposter1.png" 
         alt_text="Poster #1" 
         caption="Poster #1"
         author='KitSixtyFour'
         style="" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/tposter2_en.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/tposter2_en.png" 
         alt_text="Poster #2" 
         caption="Poster #2"
         author='KitSixtyFour'
         style="" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/tposter2_es.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/tposter2_es.png" 
         alt_text="Ditto, Spanish version." 
         caption="Ditto, Spanish version."
         style="" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/findingfucking/tposter2_jp.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/findingfucking/tposter2_jp.png" 
         alt_text="Poster #2, Japanese version." 
         caption="Poster #2, Japanese version."
         style="" %}

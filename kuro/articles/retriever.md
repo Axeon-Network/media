@@ -9,10 +9,10 @@ hatnote: "\"Project Retriever\" and \"Retriever\" redirect here. For the debugge
 ---
 
 {% include infoboxes/game.html 
-logo='resources/img/articles/cometadv/logo.png'
+logo='res/img/articles/cometadv/logo.png'
 name='Comet Adventure'
 developer='[KitSixtyFour](KitSixtyFour)'
-screenshot='resources/img/articles/cometadv527/windows81.png'
+screenshot='res/img/articles/cometadv527/windows81.png'
 caption='[Build 527](Comet_Adventure_build_527) running under Windows 8.1'
 genre='Role-playing (RPG)'
 releasedate='27 January 2027 (retail)<br>and 12 September 2026 (demo) prior to cancellation.'

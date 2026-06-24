@@ -14,9 +14,9 @@ version='6.0'
 build='4100'
 lab='main'
 compiled='2025-10-29 16:38 UTC-6'
-image='resources/img/articles/kurowiki4100/home.png'
+image='res/img/articles/kurowiki4100/home.png'
 image_caption='Home page (dark mode)'
-image2='resources/img/articles/kurowiki4100/homelight.png'
+image2='res/img/articles/kurowiki4100/homelight.png'
 image2_caption='Home page (light mode)'
 %}
 
@@ -25,16 +25,16 @@ image2_caption='Home page (light mode)'
 # Gallery
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4100/drawer.png"
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4100/drawer.png"
         caption="Drawer"
         style="width:50%;" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4100/drawerlight.png"
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4100/drawerlight.png"
         caption="Ditto, light mode enabled"
         style="width:50%;" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4100/settings.png"
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4100/settings.png"
         caption="Settings"
         style="width:50%;" %}
 </div>

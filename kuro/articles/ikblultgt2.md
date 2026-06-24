@@ -7,8 +7,8 @@ dyk:
     - "...that the \"%iKBLULTGT2%\" is named such way due to a bug in the .inf file?"
 ---
 
-{% include silver_item.html 
-    image_src="resources/img/articles/ikblultgt2/devicemanager.png" 
+{% include items/embed.html 
+    image_src="res/img/articles/ikblultgt2/devicemanager.png" 
     caption='%iKBLULTGT2% visible in the Windows 7 Device Manager.' 
     %}
 

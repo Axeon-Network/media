@@ -12,7 +12,7 @@ version='6.0'
 build='3761'
 lab='nekori64'
 compiled='2025-10-12 20:01 UTC-6'
-image='resources/img/articles/kurowiki3761/settings.png'
+image='res/img/articles/kurowiki3761/settings.png'
 image_caption='Settings page'
 %}
 
@@ -22,8 +22,8 @@ It adds a new Settings page accessible at [Settings](Settings) and from the draw
 
 <div class="wiki-gallery">
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3761/settingslightmode.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3761/settingslightmode.png" 
         alt_text="Ditto, light mode enabled" 
         caption="Settings with light mode enabled"
         style="width:50%;" %}

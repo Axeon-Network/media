@@ -22,7 +22,7 @@ version='2.4'
 build='3567'
 lab='main-wik<br>horiwiki-pa1'
 compiled='2025-15-04 10:45 UTC-6'
-image='resources/img/articles/kurowiki3567/main.png'
+image='res/img/articles/kurowiki3567/main.png'
 image_caption='Home page'
 %}
 
@@ -33,8 +33,8 @@ There are virtually no differences between the actual HoriWebsite v2.4 and this 
 Another compile of this build, namely `2.4.3567.horiwiki-pa1.250504-1052`, was compiled 7 minutes later, where "pa1" means Pre-Alpha 1.
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3567/compile.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3567/compile.png" 
         caption="Alternate compile"
         style="width:50%;" %}
 </div>

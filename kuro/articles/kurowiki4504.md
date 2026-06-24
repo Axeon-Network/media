@@ -11,7 +11,7 @@ version='7.0'
 build='4504'
 lab='mdelta_N'
 compiled='2026-02-15'
-image='resources/img/articles/kurowiki4504/home.png'
+image='res/img/articles/kurowiki4504/home.png'
 image_caption='Home page'
 %}
 
@@ -22,8 +22,8 @@ This is the first build compiled from the back-then newly made `mdelta_N` branch
 
 # Gallery
 <div class="wiki-gallery">
-{% include gallery_item.html
-    image_src="resources/img/articles/kurowiki4504/drawer.png"
+{% include items/gallery.html
+    image_src="res/img/articles/kurowiki4504/drawer.png"
     caption="Drawer"
     %}
 </div>

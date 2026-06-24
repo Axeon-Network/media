@@ -12,7 +12,7 @@ version='7.0'
 build='4641'
 lab='kayaurora'
 compiled='2026-02-19 4:35 UTC+2'
-image='resources/img/articles/kurowiki4641/article.png'
+image='res/img/articles/kurowiki4641/article.png'
 image_caption='Article view'
 %}
 
@@ -24,10 +24,10 @@ In the full page screenshot available, it is presumed that the state of the arti
 
 # Gallery
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4641/article.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4641/article.png" 
         caption="Article" %}
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki4641/articleseriesbox.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki4641/articleseriesbox.png" 
         caption="Article series box" %}
 </div>

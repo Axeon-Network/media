@@ -11,7 +11,7 @@ version='7.0'
 build='4538'
 lab='kitsixtyfour'
 compiled='2026-02-08 11:45 UTC-6'
-image='resources/img/articles/kurowiki4538/article.png'
+image='res/img/articles/kurowiki4538/article.png'
 image_caption='Article view'
 %}
 

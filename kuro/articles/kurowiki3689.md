@@ -12,7 +12,7 @@ version='6.0'
 build='3689'
 lab='kayaurora'
 compiled='2025-10-12 17:39 UTC-6'
-image='resources/img/articles/kurowiki3689/home.png'
+image='res/img/articles/kurowiki3689/home.png'
 image_caption='Home page'
 %}
 
@@ -24,14 +24,14 @@ This build was compiled with an issue in the homepage where the *Recent news* te
 
 <div class="wiki-gallery">
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3689/404.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3689/404.png" 
         alt_text="The new 404 page." 
         caption="The new 404 page."
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3689/contrib.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3689/contrib.png" 
         alt_text="Hatnote of the Contributing to KuroWiki page." 
         caption="Hatnote of the Contributing to KuroWiki page."
         style="width:50%;" %}

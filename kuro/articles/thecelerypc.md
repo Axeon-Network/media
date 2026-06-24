@@ -19,7 +19,7 @@ name='TheCeleryPC'
 owner='[KitSixtyFour](KitSixtyFour)'
 manufacturer='Acer Inc. (under the eMachines moniker)'
 model='ET1810-03'
-image='resources/img/infoboxes/noimage.png'
+image='res/img/infoboxes/noimage.png'
 cpu='Intel Celeron 420 @ 1.60 GHz (*Conroe*)'
 introduced='19 June 2021'
 introISO='2021-06-19' 
@@ -55,35 +55,35 @@ Due to the Certificate of Authenticity sticker still being present in the comput
 
 # Gallery
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/thecelerypc/july2023.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/thecelerypc/july2023.png" 
         caption="A recovered screenshot of one of TheCeleryPC's installs, 1 July 2023"
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/thecelerypc/thei5lappy.jpg" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/thecelerypc/thei5lappy.jpg" 
         alt_text="Kit booting from TheCeleryPC's hard drive on Thei5Lappy" 
         caption="Kit booting from TheCeleryPC (right)'s hard drive on [NishiLappy](NishiLappy) (left), February 2025"
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/thecelerypc/windows10ltsc_i5.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/thecelerypc/windows10ltsc_i5.png" 
         alt_text="About box and System Properties of the Windows 10 IoT Enterprise LTSC 2021 installation found on TheCeleryPC's HDD, running on Thei5Lappy. A Supermium window is visible being open on Mastodon, with a Revolt (Stoat) tab next to it" 
         caption="About box and System Properties of the Windows 10 LTSC install found on TheCeleryPC's HDD, running on NishiLappy"
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src='resources/img/articles/thecelerypc/bottom.jpg'
+    {% include items/gallery.html 
+        image_src='res/img/articles/thecelerypc/bottom.jpg'
         caption='The bottom chassis of the computer.'
         %}
 
-    {% include gallery_item.html 
-        image_src='resources/img/articles/thecelerypc/bottom-flipped.jpg'
+    {% include items/gallery.html 
+        image_src='res/img/articles/thecelerypc/bottom-flipped.jpg'
         caption='Ditto, flipped 180 degrees for readibility, ft. \"game server\" text (albeit in Spanish)'
     %}
 
-    {% include gallery_item.html 
-        image_src='resources/img/articles/thecelerypc/coa.jpg'
+    {% include items/gallery.html 
+        image_src='res/img/articles/thecelerypc/coa.jpg'
         caption='The Microsoft Certificate of Authenticity sticker (product key redacted)'
      %}
 </div>

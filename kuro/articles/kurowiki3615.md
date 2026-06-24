@@ -16,7 +16,7 @@ version='5.2'
 build='3615'
 lab='main'
 compiled='2025-10-10 19:12 UTC-6'
-image='resources/img/articles/kurowiki3615/home.png'
+image='res/img/articles/kurowiki3615/home.png'
 image_caption='Home page'
 %}
 
@@ -68,18 +68,18 @@ It is jokingly codenamed in the version information as KuroWikiXP due to its ver
 # Gallery
 
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3615/homeditto.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3615/homeditto.png" 
         caption="Home page, recent news collapsed."
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3615/drawer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3615/drawer.png" 
         caption="The drawer"
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki3615/homebug.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki3615/homebug.png" 
         caption="The home page's card bug."
         style="width:50%;" %}
 </div>

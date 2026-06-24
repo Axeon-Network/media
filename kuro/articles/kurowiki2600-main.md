@@ -14,7 +14,7 @@ version='5.1'
 build='2600'
 lab='main'
 compiled='2025-09-28 09:55 UTC-6'
-image='resources/img/articles/kurowiki2600/home.png'
+image='res/img/articles/kurowiki2600/home.png'
 image_caption='Home page'
 %}
 
@@ -30,23 +30,23 @@ This build is the first public build released under the Axeon Network umbrella, 
 
 # Gallery
 <div class="wiki-gallery">
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki2600/drawer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki2600/drawer.png" 
         caption="The drawer, including links for the <a href='Contributing_to_KuroWiki'>Contributing to KuroWiki page</a> and version information."
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki2600/search.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki2600/search.png" 
         caption="The search page, featuring the search index bug."
         style="width:50%;" %}
 
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki2600/axeon.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki2600/axeon.png" 
         caption="An article (featuring the <a href='Axeon_Network'>Axeon Network</a> article)"
         style="width:50%;" %}
     
-    {% include gallery_item.html 
-        image_src="resources/img/articles/kurowiki2600/viewer.png" 
+    {% include items/gallery.html 
+        image_src="res/img/articles/kurowiki2600/viewer.png" 
         caption="The media viewer, featuring the viewer watermark."
         style="width:50%;" %}
 </div>

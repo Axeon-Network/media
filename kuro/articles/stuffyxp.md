@@ -19,8 +19,8 @@ dyk:
 </style>
 
 {% include infoboxes/channel.html
-pfp='resources/img/articles/stuffyxp/stuffyxp2025.png'
-banner='resources/img/articles/stuffyxp/stuffyxpbanner2025.png'
+pfp='res/img/articles/stuffyxp/stuffyxp2025.png'
+banner='res/img/articles/stuffyxp/stuffyxpbanner2025.png'
 name='StuffyXP'
 formerly='Yoshi Land0842 (2020-2021)<br>Stuff Life (2021-2023)<br>Stuffy (2023-2024)'
 creator='[KitSixtyFour](KitSixtyFour)'
@@ -56,7 +56,7 @@ deletiondate='2025-03-14'
 ## 2020-2022: *Yoshi Land0842* and *Stuff Life*
 The channel was created on 13 March 2020 under the name *Yoshi Land0842*[^1] but didn't have content until April 2021 following the rebrand from *Yoshi Land0842* to *Stuff Life*, and the release of Kit's first video.
 
-{% include silver_item.html caption='A picture of [Dogui](Dogui). 20 January 2024' image_src='resources/img/articles/dogui/dogui2024.jpg' %}
+{% include items/embed.html caption='A picture of [Dogui](Dogui). 20 January 2024' image_src='res/img/articles/dogui/dogui2024.jpg' %}
 
 The video (along with its sequel, which was uploaded the same day) consisted of a showcase of Kit's plushies, including [Dogui](Dogui) (who was used in the branding of StuffyXP from October 2023 until July 2024). The videos were edited on a mobile photo and video editor called *[InShot](https://play.google.com/store/apps/details?id=com.camerasideas.instashot)* on their Samsung Galaxy J5, which was a gift from Kit's father.
 
@@ -71,7 +71,7 @@ The channel was revived in 2023, notable uploads include a COVID-19-based video 
 
 -- *Kit's thoughts regarding the plushie era of StuffyXP, dated 2024*
 
-{% include silver_item.html caption='The 2023 StuffyXP profile picture.' image_src='resources/img/articles/stuffyxp/stuffyxp2023.jpg' %}
+{% include items/embed.html caption='The 2023 StuffyXP profile picture.' image_src='res/img/articles/stuffyxp/stuffyxp2023.jpg' %}
 
 Additionally, 2023 also marked the start of the StuffyXP tech era (which co-existed with the plush videos), as videos featuring [TheCeleryPC](TheCeleryPC) consisting of using VirtualBox for installing operating systems like Windows XP and Windows Vista were uploaded. These videos were recorded with a camera, as Kit was unaware of screencast software at that time.<br>Other notable videos include Kit re-installing Windows 7 on TheCeleryPC (which was the first public appearance of the computer itself, as the monitor was the only component shown prior to this video).
 
@@ -82,11 +82,11 @@ On 17 December 2023, Kit created their Discord account and joined a couple of te
 
 The development of *A VMware First-Timer installs Windows XP!* was deemed difficult since a week later, the original project file got corrupted, causing the video to be delayed from its original release date of 18 January, and to be remade from scratch. The video went through 3 total operating system changes within its production; it was recorded on Windows 8.1, it was edited on Windows Vista, and it was uploaded on Windows 7. Since then, *A VMware First-Timer installs Windows XP!* officially released on 13 February 2024. In the meanwhile, Kit's first Discord server, [Stuffy's Place](Stuffy's_Place), was formally launched on 3 January 2024, and the development of [the original Stuffy Website](Stuffy's_Website_(May_2024)) began.
 
-{% include silver_item.html caption='One of the sneak peeks of the PearPC video sent by Kit on Stuffy\'s Place. 17 March 2024' image_src='resources/img/articles/pearpcstuffyxp/sneak1.jpg' %}
+{% include items/embed.html caption='One of the sneak peeks of the PearPC video sent by Kit on Stuffy\'s Place. 17 March 2024' image_src='res/img/articles/pearpcstuffyxp/sneak1.jpg' %}
 
 Following the release of *A VMware First-Timer installs Windows XP!*, a new video series planned to release in March 2024 titled *[Stuffy's Tech Misadventures](Stuffy's_Tech_Misadventures)* (abbreviated as *STM*) was created on February 2024. It was inspired from Computer Clan's *Krazy Ken's Tech Misadventures* YouTube series, with the same focus of using technology in random ways. The first STM episode, allegedly titled *[Mac OS X Jaguar... on Windows XP!?](Stuffy's_Tech_Misadventures_Episode_1)*, began development on March 2024 and consisted of running Mac OS X 10.2 Jaguar on Windows XP via PearPC, a PowerPC G3 emulator for Microsoft Windows. The video was ultimately cancelled due to the original video footage becoming corrupted out-of-nowhere on mid March, with only the project file remaining. The video could theorically be re-recorded, but Kit was demotivated after the event, thus it was cancelled. It is notable that photos of the behind-the-scenes of the video had been shared by Kit during the development of the video.
 
-{% include silver_item.html caption='The thumbnail for the VMware 12 video. 3 May 2024' image_src='resources/img/articles/vmware12stxp/thumb.jpg' left=true %}
+{% include items/embed.html caption='The thumbnail for the VMware 12 video. 3 May 2024' image_src='res/img/articles/vmware12stxp/thumb.jpg' left=true %}
 
 After the cancellation of the PearPC video, Kit changed the focus of the first episode of STM to installing VMware Workstation 12.0.0 on Windows Vista, which is not officially supported (as version 10.0.7 is the last version officially supported for Windows XP and Windows Vista). This video was finished on May 2024, but was lost because the DVD that hosted a backup of the video became corrupted (that is, it asked to be formatted). Only two photos exist of the video; a sneak peek shared by Kit on April 2024, and the original thumbnail.<br>A soft-cameo of this video was included as a segment in *[Installing modern programs on Windows Vista!](Installing_modern_programs_on_Windows_Vista!)*, and was completely remade over 6 months later with the release of *[Running VMware Workstation 12 on Windows Vista!](Running_VMware_Workstation_12_on_Windows_Vista!)* on the [AstroNT](AstroNT) channel.
 
@@ -102,7 +102,7 @@ October was one of the months where the StuffyXP channel went inactive, due to K
 
 On November 2024, StuffyXP (and the rest of Kit's projects) officially went on an almost month-long haitus due to the sudden death of TheCeleryPC. More specifically, the power supply unit (PSU) got fried following a power outage in Honduras on the 3rd of November. This caused the computer to incorrectly power on, as only some components managed to power on (more specifically, those reliant on AC power), but couldn't completely power on the rest of the components, resulting in the fans spinning up "like crazy" without any display output. On the 28th of November, [NishiLappy](NishiLappy) (known back-then as *Thei5Lappy*) was given to Kit, resulting in the end of the StuffyXP hiatus. Other projects, such as the [StuffyXP Website](StuffyXP_Website), continued development.
 
-{% include silver_item.html caption='*Geometry Dash on Windows Vista* taken down. 6 December 2024' image_src='resources/img/articles/stuffyxp/takedown.png' %}
+{% include items/embed.html caption='*Geometry Dash on Windows Vista* taken down. 6 December 2024' image_src='res/img/articles/stuffyxp/takedown.png' %}
 
 A couple of days later, *[Geometry Dash... on Windows Vista!?](Geometry_Dash..._on_Windows_Vista!?)* was released, marking the return of the StuffyXP channel. However, this video caused problems since it was falsely striked by YouTube for "harmful and dangeorus content" twice, in the meanwhile, the StuffyXP Extras channel was used for updates regarding the situation, however, it was appealed at the same day, and ended up reinstated a day later. On the 21st of December, *[Using Windows 11 for the first time!](Using_Windows_11_for_the_first_time!)* was released as "an early christmas gift", and was released to critical acclaim.
 
@@ -121,8 +121,8 @@ The origin of the StuffyXP name actually comes back from [Kit's old Reddit accou
 # YouTube Channels
 ## StuffyXP Extras
 {% include infoboxes/channel.html
-pfp='resources/img/articles/stuffyxp/stuffyxpextras2025.png'
-banner='resources/img/articles/stuffyxp/stuffyxpextrasbanner.jpg'
+pfp='res/img/articles/stuffyxp/stuffyxpextras2025.png'
+banner='res/img/articles/stuffyxp/stuffyxpextrasbanner.jpg'
 name='StuffyXP Extras'
 formerly='Sttuf Blogs (2021-2023)<br>Stuffy + (2023-2024)<br>StuffyXP Plus (Mid 2024)'
 creator='KitSixtyFour'
@@ -149,8 +149,8 @@ Addionally, Kit has used the channel for backup purposes, such as when the Stuff
 
 ## StuffyXP Vlogs
 {% include infoboxes/channel.html
-pfp='resources/img/articles/stuffyxp/stuffyxpvlogs2025.png'
-banner='resources/img/articles/stuffyxp/stuffyxpvlogsbanner2025.png'
+pfp='res/img/articles/stuffyxp/stuffyxpvlogs2025.png'
+banner='res/img/articles/stuffyxp/stuffyxpvlogsbanner2025.png'
 name='StuffyXP Extras'
 formerly='Stuffy Vlogs (2023-2024)'
 creator='KitSixtyFour'
@@ -177,8 +177,8 @@ The channel was originally known as **MisAnimacionesPencil2D** (english: MyAnims
 
 ## Stuffy 64
 {% include infoboxes/channel.html
-pfp='resources/img/articles/stuffyxp/stuffy642025.png'
-banner='resources/img/articles/stuffyxp/stuffy64banner2025.png'
+pfp='res/img/articles/stuffyxp/stuffy642025.png'
+banner='res/img/articles/stuffyxp/stuffy64banner2025.png'
 name='Stuffy 64'
 formerly='Stuff Life 64 (2023-2024)'
 creator='KitSixtyFour'
