@@ -31,7 +31,7 @@ The **Axeon Network** (more commonly known as just **Axeon**) is a network consi
 
 Social media presence of Axeon included the official Twitter Account (posting various updates and highlights from the Discord Server), as well as an YouTube channel known as *Axeon Productions* during 2020.
 
-{% include tableofcontents.html %}
+{% include items/tableofcontents.html %}
 
 # Discord Server
 By far, the Discord Server of the same name is the flagship of the Axeon Network.

@@ -5,7 +5,7 @@ permalink: List_of_all_KuroWiki_builds
 
 This article is a list of all known *[KuroWiki](KuroWiki)* builds.
 
-{% include tableofcontents.html %}
+{% include items/tableofcontents.html %}
 
 ## Internal Builds
 

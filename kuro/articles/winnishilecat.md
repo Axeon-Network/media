@@ -14,7 +14,7 @@ isTitleItalic: true
 
 Similarly to other famous bootlegs (such as *[Gold Windows XP 2016](https://crustywindo.ws/Gold_Windows_XP_2016)*, *[Windows The Avengers](https://crustywindo.ws/Windows_The_Avengers)* or *[Windows Glass Xp Super](https://crustywindo.ws/Windows_Glass_Xp_Super)*), *Windows Nishi & LeCat Edition* contains several modifications compared to a retail Windows Vista install, such as custom branding, wallpapers, and pre-installed software (commonly called *bloatware*). However, unlike most Windows bootlegs, it does not contain modifications to Windows components such as Windows Explorer, LogonUI or the Windows Task Manager due to time constraints.
 
-{% include tableofcontents.html %}
+{% include items/tableofcontents.html %}
 
 # Changes over a retail Windows Vista SP2 ISO
 - Most references of "Microsoft" have been changed to "Microslop", referencing the 2026 meme of the same name.

@@ -41,7 +41,7 @@ In April 2025, AveryEclipse announced the stopping of new Lynxmic content due to
 
 As of June 2026, the channel has over 1,600+ subscribers and 30+ public videos. In total, the channel has about 330 videos, although most of them have been unlisted/privated due to personal reasons on Avery's side. A list of Lynxmic videos can be found [here](List_of_Lynxmic_videos).
 
-{% include tableofcontents.html %}
+{% include items/tableofcontents.html %}
 
 # History
 ## 2016-2017: Backstory and channel beginnings

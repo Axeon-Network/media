@@ -36,7 +36,7 @@ deletiondate='2025-03-14'
 
 **StuffyXP** (commonly abbreviated as **STXP**) was a tech-focused (formerly *plushie-focused*) YouTube channel ran and operated by [KitSixtyFour](KitSixtyFour) launched on 13 March 2020. It was closed and deleted in 14 March 2025 due to Kit's declining mental health status.
 
-{% include tableofcontents.html %}
+{% include items/tableofcontents.html %}
 
 # Videos
 - ***[A VMware First-Timer installs Windows XP!](A_VMware_First-Timer_installs_Windows_XP!)*** (548 views - Uploaded 2024-02-13)
