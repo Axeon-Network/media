@@ -137,7 +137,7 @@ link='N/A (formerly youtube.com/@StuffyXPExtras)'
 deletiondate='2025-03-14'
 %}
 
-{% include hatnote.html content="For a list of StuffyXP Extras videos, see [List of StuffyXP videos § StuffyXP Extras](List_of_StuffyXP_Videos#stuffyxp-extras)." %}
+{% include misc/hatnote.html content="For a list of StuffyXP Extras videos, see [List of StuffyXP videos § StuffyXP Extras](List_of_StuffyXP_Videos#stuffyxp-extras)." %}
 
 **StuffyXP Extras** was a YouTube channel owned and operated by KitSixtyFour created on 26 June 2021. Its primary focus was being a place for "random shitposts, behind-the-scenes footage", etc.
 
@@ -165,7 +165,7 @@ link='N/A (formerly youtube.com/@StuffyXPVlogs)'
 deletiondate='2025-03-14'
 %}
 
-{% include hatnote.html content="For a list of StuffyXP Vlogs videos, see [List of StuffyXP videos § StuffyXP Vlogs](List_of_StuffyXP_Videos#stuffyxp-vlogs)." %}
+{% include misc/hatnote.html content="For a list of StuffyXP Vlogs videos, see [List of StuffyXP videos § StuffyXP Vlogs](List_of_StuffyXP_Videos#stuffyxp-vlogs)." %}
 
 **StuffyXP Vlogs** was a YouTube channel ran and operated by KitSixtyFour created on 14 July 2021. Its suggested focus was being Kit's vlog channel, but that never came to life due to "no interesting events happening in Kit's life", while in reality was the lack of interest and equipment for creating vlog-style videos.
 
@@ -193,7 +193,7 @@ link='N/A (formerly youtube.com/@Stuffy64_)'
 deletiondate='2025-03-14'
 %}
 
-{% include hatnote.html content="For a list of Stuffy 64 videos, see [List of StuffyXP videos § Stuffy 64](List_of_StuffyXP_videos#stuffy-64)" %}
+{% include misc/hatnote.html content="For a list of Stuffy 64 videos, see [List of StuffyXP videos § Stuffy 64](List_of_StuffyXP_videos#stuffy-64)" %}
 
 **Stuffy 64** was a gaming-focused YouTube channel ran and operated by KitSixtyFour created on 4 August 2023. It was deleted in March 2025 following the StuffyXP closure.
 
