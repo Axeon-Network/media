@@ -23,6 +23,7 @@ repoHost='GitHub'
 status='In development; preview not available'
 image='res/img/articles/cuber260503/image.png'
 image_caption='Latest *Project Cuber* build, the [3 May 2026 build](Cuber_3_May_2026_build).'
+logo='res/img/articles/cuber/logo.png'
 %}
 
 

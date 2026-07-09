@@ -23,39 +23,40 @@ image_caption='Home page'
 It brought many major fixes, changes and articles, including a redesigned media viewer and drawer, which itself now includes Random Article and Sitemap buttons.
 
 # Release Notes
+## Axeon KuroWiki
 
-## KuroWiki Site
+```
+Happy Holidays everybody!
+As a present from the team behind Axeon Network, and after one and a half months of continious development, we are pleased to announce the general availability of the 6th Beta release of KuroWiki. This is the last Beta release, and thus, we are moving to the Release Candidate development stage, being more closer to Stable!
 
-`Happy Holidays everybody!`
-`As a present from the team behind Axeon Network, and after one and a half months of continious development, we are pleased to announce the general availability of the 6th Beta release of KuroWiki. This is the last Beta release, and thus, we are moving to the Release Candidate development stage, being more closer to Stable!`
+This release brings in a lot of new features, such as a redesigned drawer and media viewer, a sitemap and random article button, enhanced search results, and bug fixes such as the infamous drawer bug. We are excited to be finally able to share these new features with all of you!
 
-`This release brings in a lot of new features, such as a redesigned drawer and media viewer, a sitemap and random article button, enhanced search results, and bug fixes such as the infamous drawer bug. We are excited to be finally able to share these new features with all of you!`
+This release is dedicated to one of Nekori’s close friends, who passed away on 30 November 2025, prior to the release of Beta 6.
 
-`This release is dedicated to one of Nekori’s close friends, who passed away on 30 November 2025, prior to the release of Beta 6.`
+Got anything to say to us? We’re all ears! Feel free to sumbit any feedback in GitHub Issues, or in our Discord Server.
 
-`Got anything to say to us? We’re all ears! Feel free to sumbit any feedback in GitHub Issues, or in our Discord Server.`
+Sincerely,
+The KuroWiki Development Team.
 
-`Sincerely,`
-`The KuroWiki Development Team.`
+3 December 2025, 7:12 PM UTC-6
+```
 
-`3 December 2025, 7:12 PM UTC-6`
+## Axeon Network Discord Server
 
-## Axeon Network
+```
+After over 1.5 months, we are excited to announce the general availability of the actual Beta 6 release! ^^
 
-`After over 1.5 months, we are excited to announce the general availability of the actual Beta 6 release! ^^`
+Notable changes since the last public release from October include a new drawer style, also including new Sitemap and Random Article buttons alongside it!
+The media viewer has also been redesigned, while various other bug fixes and improvements have been made as always, including a fix for the infamous drawer bug!
 
-`Notable changes since the last public release from October include a new drawer style, also including new Sitemap and Random Article buttons alongside it!`
-`The media viewer has also been redesigned, while various other bug fixes and improvements have been made as always, including a fix for the infamous drawer bug!`
+This is the final beta release. We aim to reach stable with this project by the end of the year. Expect a series of public Release Candidate builds to come in the meantime
 
-`This is the final beta release. We aim to reach stable with this project by the end of the year. Expect a series of public Release Candidate builds to come in the meantime`
-
-`https://axeon-network.github.io/kurowiki`
-`(new logo designed by kit)`
+https://axeon-network.github.io/kurowiki
+(new logo designed by kit)
+```
 
 # Gallery
-
 ## Dark mode
-
 <div class="wiki-gallery">
     {% include items/gallery.html 
         image_src="res/img/articles/kurowiki4400/drawer.png" 

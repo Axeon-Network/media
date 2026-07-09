@@ -27,35 +27,35 @@ A Beta 6 build of KuroWiki, it is the result of a merger between the `kayaurora`
 This main branch build introduced various features implemented after build 3680, most notably Dark Mode. A Settings page was added to include light theme as a choice for those who prefer it. A proper 404 Not Found page was also added (see [build 3689](KuroWiki_build_3689)).
 
 # Release Notes
+## Axeon KuroWiki
+```
+Axeon KuroWiki Interim Developer Release 3 now available
 
-## KuroWiki Site
+We are pleased to announce that the third Interim Developer Release of KuroWiki is now available to the world-wide public. This release builds upon the code-base of KuroWiki Beta 6, which showcases improvements and new additions previously only available to internal builds.
 
-`Axeon KuroWiki Interim Developer Release 3 now available`
+We look forward on the development of KuroWiki, and soon enough, a potential Release Candidate!
 
-`We are pleased to announce that the third Interim Developer Release of KuroWiki is now available to the world-wide public. This release builds upon the code-base of KuroWiki Beta 6, which showcases improvements and new additions previously only available to internal builds.`
+Any comments or suggestions? We’re all ears! Feel free to sumbit any feedback in GitHub Issues or our Discord Server!
 
-`We look forward on the development of KuroWiki, and soon enough, a potential Release Candidate!`
+Sincerely,
+The KuroWiki Developer Team.
 
-`Any comments or suggestions? We’re all ears! Feel free to sumbit any feedback in GitHub Issues or our Discord Server!`
+17 October 2025, 6:38 PM UTC-6
+```
+## Axeon Network Discord Server
 
-`Sincerely,`
-`The KuroWiki Developer Team.`
+```
+Welcome to KuroWiki Beta 6!
+We just released the first Interim Developer Release (IDR) of Beta 6, 6.0.3810.main.251017-1808! (or as we call it, IDR3!)
 
-`17 October 2025, 6:38 PM UTC-6`
+This new release brings Dark Mode! Light Mode continues to be available as an option in the new Settings page, accessible from the so-called "hamburger button"!
+This adds to various other new additions and improvements since IDR2, and of course new articles as well..
 
-## Axeon Network
-
-`Welcome to KuroWiki Beta 6!`
-`We just released the first Interim Developer Release (IDR) of Beta 6, 6.0.3810.main.251017-1808! (or as we call it, IDR3!)`
-
-`This new release brings Dark Mode! Light Mode continues to be available as an option in the new Settings page, accessible from the so-called "hamburger button"!`
-`This adds to various other new additions and improvements since IDR2, and of course new articles as well..`
-
-`At this point I have reasons to believe we're likely just a feeeww more weeks away from a Release Candidate (after 6 months!). We have just several more planned features and loads of polishing 'n stuff left to do`
-`https://axeon-network.github.io/kurowiki`
+At this point I have reasons to believe we're likely just a feeeww more weeks away from a Release Candidate (after 6 months!). We have just several more planned features and loads of polishing 'n stuff left to do
+https://axeon-network.github.io/kurowiki
+```
 
 # Gallery
-
 <div class="wiki-gallery">
     {% include items/gallery.html 
         image_src="res/img/articles/kurowiki3810/drawer.png" 

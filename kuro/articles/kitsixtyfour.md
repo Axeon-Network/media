@@ -12,6 +12,7 @@ redirect_from:
     - LexNova
     - LexTheNova
     - StupidBiFox
+    - SnowyBiFox
     - Stuffy
     - YoshiLand_0842
     - Stuff_Life
@@ -20,7 +21,7 @@ dyk:
 hatnote: "\"YoshiLand 0842\", \"Stuff Life\", and \"Stuffy\" redirect here. For the YouTube channel formerly known as the latter, see [StuffyXP](StuffyXP).<br>This article is a stub, and will be probably completed further on Release Candidate 2."
 ---
 
-**KitSixtyFour**, alternatively known as **StupidBiFox**, and more commonly reffered to as **Kit** (born 19 June, 2010) is a Honduran web developer, furry artist, tech hobbyist, content creator and occasional gamer.
+**KitSixtyFour**, alternatively known as **SnowyBiFox**, and more commonly reffered to as **Kit** (born 19 June, 2010) is a Honduran web developer, furry artist, tech hobbyist, content creator and occasional gamer.
 
 They are primarily known for creating content for the [StuffyXP](StuffyXP) YouTube channel and more recently [AstroNT](AstroNT) alongside [Avery](AveryEclipse), creating and developing the *[Axeon Akane](Akane)* engine (and its commonplace implementation *[KuroWiki](KuroWiki)*), the *[Horicraft](Horicraft)* Minecraft server (and its successor *[Horicraft (2)](Horicraft_(2))*), alongside many [other works](List_of_KitSixtyFour's_projects).
 
