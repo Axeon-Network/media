@@ -14,14 +14,14 @@ nationality='Averian'
 residence='Clashire, Averia'
 gender='Non-Binary (genderfluid)'
 species='Catgirl'
-image='res/img/articles/cairo/profile.png'
+image='cairo/profile.png'
 %}
 
 **Cairo** is a fictional character created by [AveryEclipse](AveryEclipse). It was officially introduced on 17 March 2025, after months of planning, continuous experimentation with designs, and draw practicing which initially began as early as November 2024.
 
 It had mainly been used as part of the Clyron Branding, though separate drawings have been thought but either cancelled or forgotten about. The OC has largely became unused since May 2025.
 
-Plans for an revised OC exist since as early as November 2025 but nothing much has been concretely publicly set in stone yet.
+Plans for an improved, revised OC have existed since as early as November 2025 but these have been pretty much dropped after July 2026 due to lack of interest.
 
 <!-- todo: add name origin and history -->
 
@@ -35,9 +35,9 @@ According to Cairo's [ClyronWebsite](AveryWebsite) page (taken down in July 2025
 
 Also according to the same source, Cairo is primarily passionate about anything tech-related, enjoys anything natural sights and travelling, and they try to be caring of anything surrounding them.
 
-<div class="wiki-gallery">
+<gallery>
     {% include items/gallery.html 
-        image_src="res/img/articles/cairo/refsheet.png" 
+        image_src="cairo/refsheet.png" 
         caption="Reference sheet of Cairo."
         style="width:30%; height:auto" %}
 </div>

@@ -1,6 +1,7 @@
 ---
 title: KuroWiki build 5194.43
-permalink: KuroWiki_build_5194_43
+permalink: KuroWiki_build_5194.43.html
+redirect_from: KuroWiki_build_5194_43
 ---
 
 {% include infoboxes/build.html
@@ -11,7 +12,7 @@ build='5194'
 delta='43'
 lab='kuro_rc1_prerelease'
 compiled='2026-05-22 16:44 UTC-6'
-image='res/img/articles/kurowiki5194.43/home.png'
+image='kurowiki5194.43/home.png'
 image_caption='Home Page'
 %}
 
