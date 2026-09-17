@@ -11,13 +11,16 @@ The changelogs of all versions before and including v3.3.1 are inherited from Av
 {% include items/tableofcontents.html %}
 
 # Version 26.x
+## 26.9.1
+Released on 16 September 2026, it was a minor update updating the Projects page once more, replacing the now-discontinued [Axeon Orchid](Orchid) project with "AnythingScreensaver".
+
 ## 26.9
-Released on 11 September 2026, it was a minor update fixing more issues and updating the Projects page again.
+Released on 11 September 2026, it was a minor update fixing more issues. It also updated Orchid's entry in the Projects page.
 
 The `tzname` setting in `config.ts` was notably re-added back in this update after previously being removed with v3.2.2 in late August 2025, at the time a result of uncertainity in Avery's IRL life.
 
 ## 26.8
-Released on 10 August 2026, it was a minor update fixing a CSS issue and updating the Projects page.
+Released on 10 August 2026, it was a minor update fixing a CSS issue and adding Orchid to the Projects page.
 
 ## 26.7.1
 Released on 31 July 2026, it primarily focused on bug fixes and improvements, primarily in the Fallback Layout.
